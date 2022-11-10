@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+**/*.json
+**/*.gv
+azure/bin/
