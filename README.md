@@ -240,4 +240,5 @@ which will start in god mode (iddqd) and teleport you directly to the steps outs
 
 # Demo
 
-![chaosbernie demo](./docs/demo.gif)
+https://user-images.githubusercontent.com/31047013/201231011-65076c41-7b58-47da-9d11-87bf6cee8949.mp4
+
